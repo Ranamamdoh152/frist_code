@@ -1,2 +1,1 @@
-# frist_code
-for alx 
+# first_code 
